@@ -1,0 +1,15 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="OperatorSecurityRole\TC_T721974\AddingWindowsUserToSecurityRole.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="AutomationSQLdm.rxtst" />
+    <Element value="OperatorSecurityRole\TC_T721974\AddingWindowsUserToSecurityRole.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
